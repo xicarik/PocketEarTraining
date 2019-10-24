@@ -48,8 +48,7 @@
 
 **[ ИНСТРУМЕНТЫ РАЗРАБОТКИ ]**
 
-* HTML / CSS / JS / React Native - для Android-версии
-* HTML / CSS / JS / React / PHP / MySQL - для веб-версии
+* HTML / CSS / JS / React Native / React / PHP / MySQL (MariaDB)
 
 **[ ЭТАПЫ РАЗРАБОТКИ ]**
 
