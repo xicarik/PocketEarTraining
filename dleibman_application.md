@@ -1,4 +1,4 @@
-# Лейбман Денис PocketEarTraining
+# Лейбман Денис - PocketEarTraining
 
 ### Группа: 10И4, куратор Челяховская Марина Андреевна
 ### Электронная почта: xicarik96@protonmail.com
